@@ -22,7 +22,7 @@ Highcharts.chart('container', {
     }
   },
   series: [{
-    name: 'Brands',
+    name: 'Gender',
     colorByPoint: true,
     data: [{
       name: 'Fulltime Men',
